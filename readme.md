@@ -1,5 +1,5 @@
-Meu primeiro sistema no git
+Meu primeiro sistema no git, e segundo tambem
 
-Alteração no readme para descrever melhor meu sistema
+Alteracao no readme para descrever melhor meu sistema
 
-Alterado
+Criei uma nova linha
