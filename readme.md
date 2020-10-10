@@ -1,3 +1,3 @@
-Meu primeiro sistema no git (alterado e atualizado)
+Meu primeiro sistema no git e github
 
-Alteracao no readme para descrever melhor meu sistema
+Apenas alguns arquivos de html, css, js e php
