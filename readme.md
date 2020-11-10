@@ -1,3 +1,3 @@
-Meu primeiro sistema no git e github
+Aprendendo alguns comandos básicos no git (aulas de Git/GitHub - B7web)
 
-Apenas alguns arquivos de html, css, js e php
+->Arquivos vazios, criados para os testes
